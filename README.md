@@ -1,2 +1,2 @@
-# proman
-Gestión de productividad
+# ProMan
+Productivity Manager
