@@ -1,6 +1,6 @@
 #! /bin/sh
 
-NAME="$1"
+NAME="${1:-note}"
 DATE="$(date +"%Y-%m-%d")"
 FILE="${DATE}_${NAME}.md"
 
